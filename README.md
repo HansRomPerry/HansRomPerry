@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hans Rom Perry Sy</h1>
 <h3 align="center">A web developer in FEU Institute of Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/7F2IWrpzifQAAAAC/sukuna-jujutsu-kaisen.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2278321774748103948/4B86E839E51D08A61ACBC4EABF734420E297172A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)">
 
 - 🌱 I’m currently learning **Web Development**
 
