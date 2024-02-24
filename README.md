@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hans Rom Perry Sy</h1>
 <h3 align="center">A web developer in FEU Institute of Technology</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Video games!**
 
